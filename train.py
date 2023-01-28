@@ -175,4 +175,4 @@ history = model.fit(
     workers=-1,
 )
 
-model.save("./my_model.h5")
+
